@@ -1,0 +1,8 @@
+{
+  "appId": "com.leandrocardoso.jiujitsu",
+  "appName": "Leandro Cardoso Jiu-Jitsu",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
